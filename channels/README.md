@@ -8,7 +8,7 @@ Each channel should have a README.md in a separate directory. This README.md is 
 Everything inside the raw file `<pre>` element below can be copy and pasted into the Discord message box.
 
 <pre>
-Please ask your JavaScript questions in this channel.
+Please ask your [language] questions in this channel.
 
 When posting your code please use Markdown for code blocks and syntax highlighting in your messages.
 Code blocks are wrapped with triple backticks in Discord. Include the name of the language used for syntax highlighting
