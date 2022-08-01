@@ -1,4 +1,4 @@
-# 100Devs-Discord-Maintenance-Adjunct
+# 100Devs-Discord-Markdown
 Unsanctioned supplemental files and information for the 100Devs Discord.
 
 ## What is the purpose
