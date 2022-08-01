@@ -4,7 +4,7 @@ Unsanctioned supplemental files and information for the 100Devs Discord.
 ## What is the purpose
 
 Primarily created to collaborate on markdown examples for code snippets in pinned messages.
-This README covers the use of Markdown. The channel directories include suggestions for pinned messages for specific Discord channels. 
+This README covers the use of Markdown. The channel directories include suggestions for pinned messages for specified Discord channels. 
 
 ## Markdown differences between Pandoc and Discord
 
