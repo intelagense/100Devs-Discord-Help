@@ -5,7 +5,7 @@ Unsanctioned supplemental files and information for the 100Devs Discord.
 
 Primarily created to collaborate on markdown examples for code snippets in pinned messages.
 
-Normally in markdown you can demonstrate how to create code blocks by nesting a triple-backticked code block within a quadruple-backbacked code block like this:
+In Pandoc Markdown you can demonstrate how to create code blocks by nesting a triple-backticked code block within a quadruple-backbacked code block
 
 <!--- Note: If you are viewing this file in raw mode please realize that I am using an additional layer of codeblocks in order for GitHub to create this README--->
 `````
@@ -16,7 +16,7 @@ Normally in markdown you can demonstrate how to create code blocks by nesting a 
 ````
 `````
 
-In Discord you must use insert a Zero Width Space (U+200B) within the triple-backtick you wish to escape
+In Discord Markdown you must use insert a Zero Width Space (U+200B) within the triple-backticks you wish to escape
 ````
 ```             //normal triple-backtick
 `​``[language]  //escaped triple-backtick
