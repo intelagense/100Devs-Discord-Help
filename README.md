@@ -5,11 +5,11 @@ Unsanctioned supplemental files and information for the 100Devs Discord help cha
 ## Table of contents
 
 Asking questions in the Discord
-    * How do I ask my question?
-    * Searching for previous answers.
-    * Best time to ask?
-    * What about voice chat?
-    * What are code blocks?
+  * How do I ask my question?
+  * Searching for previous answers.
+  * Best time to ask?
+  * What about voice chat?
+  * What are code blocks?
 
 
 [Frequently Asked Questions(coming soon!)](#)
