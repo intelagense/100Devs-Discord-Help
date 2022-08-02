@@ -1,4 +1,4 @@
-# 100Devs-Discord-Markdown
+# 100Devs-Discord-Help
 Unsanctioned supplemental files and information for the 100Devs Discord.
 
 ## What is the purpose
