@@ -1,12 +1,50 @@
-# 100Devs-Discord-Help
-Unsanctioned supplemental files and information for the 100Devs Discord.
+# 100Devs-Discord-Help `(Work in progress)`
 
-## What is the purpose
+Unsanctioned supplemental files and information for the 100Devs Discord help channels.
 
-Primarily created to collaborate on markdown examples for code snippets in pinned messages.
-This README covers the use of Markdown. The channel directories include suggestions for pinned messages for specified Discord channels. 
+## Table of contents
 
-## Markdown differences between Pandoc and Discord
+Asking questions in the Discord
+    * How do I ask my question?
+    * Searching for previous answers.
+    * Best time to ask?
+    * What about voice chat?
+    * What are code blocks?
+
+
+[Frequently Asked Questions(coming soon!)](#)
+  * How do I join catch-up crew?
+  * What is a thread? and how does it work?
+  
+  
+Answering questions
+  * [Code Blocks for pros](#code-blocks-and-syntax-highlighting)
+
+  
+  
+
+
+## Asking questions in the Discord
+
+### How do I ask my question?
+
+### Searching for previous answers.
+
+### Best time to ask?
+
+### What about voice chat?
+
+### What are code blocks?
+
+````
+```[language]
+  [code]
+```
+````
+
+##
+
+### Code Blocks and Syntax highlighting
 
 In standard Pandoc Markdown you can demonstrate to viewers how code blocks are created by nesting a triple-backticked code block within a quadruple-backbacked code block
 
