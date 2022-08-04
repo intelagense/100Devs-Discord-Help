@@ -1,6 +1,6 @@
 # 100Devs-Discord-Help `(Work in progress)`
 
-Unnofficial resources for the **#100Devs** Discord help channels. This is merely a guide for suggested best practices as agreed upon by a small group of members. For official **#100Devs** infomation and resources please visit [leonnoel.com/100devs (external link)](https://leonnoel.com/100devs/)
+Unofficial resources for the **#100Devs** Discord help channels. This is merely a guide for suggested best practices as agreed upon by a small group of members. For official **#100Devs** infomation and resources please visit [leonnoel.com/100devs (external link)](https://leonnoel.com/100devs/)
 
 ## Table of contents
 
