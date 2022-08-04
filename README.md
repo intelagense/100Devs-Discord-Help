@@ -1,10 +1,10 @@
 # 100Devs-Discord-Help `(Work in progress)`
 
-Unsanctioned supplemental files and information for the 100Devs Discord help channels.
+Unsanctioned supplemental files and information for the #100Devs Discord help channels.
 
 ## Table of contents
 
-**Getting started - asking questions in the Discord**
+**Getting started - asking questions in the 100Devs Discord**
   * [How do I ask my question?](#how-do-i-ask-my-question)
   * Searching for previous answers.
   * Best time to ask?
@@ -28,6 +28,15 @@ Answering questions
 ## Asking questions in the Discord
 
 ### How do I ask my question?
+#### The Process:
+1. Choose the help channel most relevant to your topic.
+1. Type your question and press enter.
+1. The needle bot will open a new thread for you **'automagically.'**
+1. Paste any related code, code snippets, and/or images **inside** this new thread.
+1. Wait patiently... eventually someone should come around. They may ask you for additional info and then try to help you work through the problem.
+1. **After** your question has been answered give a quick thanks and press the **'archive thread'** button.
+
+<img align="middle" height=48px alt="Discord 'archive thread' button" src="images/archivethreadbutton.png"><sub>💡The 'archive thread' button makes it easier for volunteers to find more unanswered questions.</sub>
 
 ### Searching for previous answers.
 
