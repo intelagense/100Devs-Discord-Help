@@ -46,7 +46,7 @@ Answering questions
 Sometimes the fastest way to get your question answered is to join a voice chat and ask for help directly. You can also go into an empty voice chat and start sharing your screen and folx will show up out of curiosity. 
 
 ### What are code blocks?
-One of Discord's features is that it uses 'Markdown' syntax to display text. You can surround the code you type in a chat with backticks and it will be displayed in a way that is easier for you and the other developers to read. 
+One of Discord's features is that it uses 'Markdown' syntax to display text. You can surround the code you type in a chat with backticks and it will be displayed in a way that is easier for other developers to read.
 
 Using three backticks in a row will create a multi-line code block. Type the name of the language you are using directly after the first triple-backtick to use syntax highlighting.
 
@@ -58,7 +58,7 @@ Using three backticks in a row will create a multi-line code block. Type the nam
 ```
 ````
 
-💡 Use single backticks to create an `` `inline code block` `` (Inline only, no color coding.)
+> 💡 Use single backticks to create an `` `inline code block` `` (Inline only, no color coding.)
 
 ## Frequently Asked Questions
 
@@ -67,7 +67,7 @@ Using three backticks in a row will create a multi-line code block. Type the nam
 ### What is a thread? and how does it work?
 TLDR - A thread is basically a mini channel inside a main channel used to focus on a single topic. Messages sent inside the help channels are automatically transformed into a thread by the 'Needle Bot.'
 
-💡 For more in-depth information on how Discord threads work check out the official [Discord threads FAQ (External link)](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ)
+> 💡 For more in-depth information on how Discord threads work check out the official [Discord threads FAQ (External link)](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ)
 
 ## Answering questions
 
@@ -118,6 +118,6 @@ When specifying the [language] in a normal code block Discord will apply syntax 
 
 <p>which looks like this when editing in Discord...</p>
 <img src="images/discordansi.png">
-<p>will display as this to other users.</p>
+<p>will display like this to other users.</p>
 <img src="images/discordansirender.png">
 <p>Using ansi color in examples will help the viewer to understand why the [language] is included after the triple-backticks.</p>
