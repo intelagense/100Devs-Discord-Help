@@ -63,7 +63,7 @@ TLDR - A thread is basically a mini channel inside a main channel used to focus 
 ## Answering questions
 
 ### How can I help?
->“If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together.”
+>“If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together.”<sub> -Lilla Watson</sub>
 
 ### Code blocks for 'pros'
 
