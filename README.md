@@ -4,7 +4,7 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
 
 ## Table of contents
 
-### Getting started - asking questions in the 100Devs Discord
+### Getting started - [Asking questions in the #100Devs Discord](#asking-questions-in-the-100devs-discord)
   * [How do I ask my question?](#how-do-i-ask-my-question)
   * [Searching for previous answers](#searching-for-previous-answers)
   * [Best time to ask questions.](#best-time-to-ask-questions)
@@ -20,13 +20,14 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
   
 ### Answering questions
   * [How can I help?](#how-can-i-help)
+  * [Finding questions to answer](#finding-questions-to-answer)
   * [Code Blocks for 'pros'](#code-blocks-for-pros)
 
   
   
 
 
-## Asking questions in the Discord
+## Asking questions in the #100Devs Discord
 
 ### How do I ask my question?
 #### The Process:
@@ -50,7 +51,7 @@ There are several filters you can use to narrow your search. Try typing `in:` an
 💡 There are many more powerful tools you can use in search. For more in-depth information check out the [Discord guide to using search (external link)](https://support.discord.com/hc/en-us/articles/115000468588-Using-Search)
 
 ### Best time to ask questions
-Any time you find yourself stuck on something for more than 20 minutes is the best time to hop on Discord and ask questions. However the amount of active members in the help channels varies greatly throughout the day and also week to week. 
+Any time you find yourself stuck on something for more than 20 minutes is the best time to hop on Discord and ask questions. However the amount of active members in the help channels varies greatly throughout the day and also from week to week.
 
 ### What are code blocks?
 One of Discord's features is that it uses 'Markdown' syntax to display text. You can surround the code you type in chat with backticks and it will be displayed in a way that is easier for other developers to read.
@@ -91,6 +92,10 @@ TLDR - A thread is basically a mini channel inside a main channel used to focus 
 
 ### How can I help?
 >“If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together.”<sub> -Lilla Watson</sub>
+
+
+
+### Finding questions to answer
 
 ### Code blocks for 'pros'
 
