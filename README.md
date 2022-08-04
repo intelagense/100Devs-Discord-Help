@@ -4,7 +4,7 @@ Unsanctioned supplemental files and information for the #100Devs Discord help ch
 
 ## Table of contents
 
-**Getting started - asking questions in the 100Devs Discord**
+### Getting started - asking questions in the 100Devs Discord
   * [How do I ask my question?](#how-do-i-ask-my-question)
   * Searching for previous answers.
   * Best time to ask?
@@ -12,12 +12,13 @@ Unsanctioned supplemental files and information for the #100Devs Discord help ch
   * [What are code blocks?](#what-are-code-blocks)
 
 
-[Frequently Asked Questions(coming soon!)](#)
+### [Frequently Asked Questions](#)
   * How do I join catch-up crew?
   * What is a thread? and how does it work?
+  * Why is no one answering my question?
   
   
-Answering questions
+### Answering questions
   * [How can I help?](#how-can-i-help)
   * [Code Blocks for 'pros'](#code-blocks-for-pros)
 
@@ -50,7 +51,7 @@ One of Discord's features is that it uses 'Markdown' syntax to display text. You
 
 Using three backticks in a row will create a multi-line code block. Type the name of the language you are using directly after the first triple-backtick to use syntax highlighting.
 
-<img align="left" src="images/codesnip.png">
+<img align="left" src="images/codesnip.png" alt="Multiline triple backtick code block with colored syntax highlighting.">
 
 ````
 ```[type the language here]
@@ -117,7 +118,7 @@ When specifying the [language] in a normal code block Discord will apply syntax 
 ````
 
 <p>which looks like this when editing in Discord...</p>
-<img src="images/discordansi.png">
+<img src="images/discordansi.png" alt="Screenshot of raw message text including ansi color codes">
 <p>will display like this to other users.</p>
-<img src="images/discordansirender.png">
+<img src="images/discordansirender.png" alt="Screenshot of rendered message text in Discord that uses ansi codes to manually apply syntax highlighting">
 <p>Using ansi color in examples will help the viewer to understand why the [language] is included after the triple-backticks.</p>
