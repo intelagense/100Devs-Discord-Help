@@ -95,6 +95,10 @@ TLDR - A thread is basically a mini channel inside a main channel used to focus 
 
 
 
+The easiest way to get started is to just browse the help channels and look for "easy" questions to answer. 
+💡 Advanced coders that aren't currently watching the live classes should try to at least know the basic gist of the various homework assignments. 
+
+
 ### Finding questions to answer
 
 ### Code blocks for 'pros'
