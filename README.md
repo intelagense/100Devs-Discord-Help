@@ -7,7 +7,7 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
 ### Getting started - asking questions in the 100Devs Discord
   * [How do I ask my question?](#how-do-i-ask-my-question)
   * [Searching for previous answers](#searching-for-previous-answers)
-  * Best time to ask questions.
+  * [Best time to ask questions.](#best-time-to-ask-questions)
   * [What are code blocks?](#what-are-code-blocks)
   * [More ways to get help](#more-ways-to-get-help)
 
@@ -43,8 +43,14 @@ Eventually someone should come around. They may ask you for additional info and 
 <img align="middle" height=48px alt="Discord 'archive thread' button" src="images/archivethreadbutton.png"><sub>💡The 'archive thread' button makes it easier for volunteers to find more unanswered questions.</sub>
 
 ### Searching for previous answers.
+Press `Ctrl+F` and start typing to search. (On mobile devices tap the 🔎 magnifying glass icon on the top right of the screen) 
 
-### Best time to ask?
+There are several filters you can use to narrow your search. Try typing `in:` and the name of a channel to display only the search results from that channel or `from:` and a username to display all of the messages from a particular user. 
+
+💡 There are many more powerful tools you can use in search. For more in-depth information check out the [Discord guide to using search (external link)](https://support.discord.com/hc/en-us/articles/115000468588-Using-Search)
+
+### Best time to ask questions
+Any time you find yourself stuck on something for more than 20 minutes is the best time to hop on Discord and ask questions. However the amount of active members in the help channels varies greatly throughout the day and also week to week. 
 
 ### What are code blocks?
 One of Discord's features is that it uses 'Markdown' syntax to display text. You can surround the code you type in chat with backticks and it will be displayed in a way that is easier for other developers to read.
