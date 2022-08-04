@@ -6,10 +6,10 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
 
 ### Getting started - asking questions in the 100Devs Discord
   * [How do I ask my question?](#how-do-i-ask-my-question)
-  * Searching for previous answers.
+  * [Searching for previous answers](#searching-for-previous-answers)
   * Best time to ask questions.
   * [What are code blocks?](#what-are-code-blocks)
-  * More ways to get help(#)
+  * [More ways to get help](#more-ways-to-get-help)
 
 
 ### [Frequently Asked Questions](#)
@@ -30,12 +30,15 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
 
 ### How do I ask my question?
 #### The Process:
-1. Choose the help channel most relevant to your topic.
+1. Pick a relevant help channel.
 1. Type your question and press enter.
 1. The needle bot will open a new thread for you **'automagically.'**
 1. Paste any related code, code snippets, and/or images **inside** this new thread.
-1. Wait patiently... eventually someone should come around. They may ask you for additional info and then try to help you work through the problem.
-1. **After** your question has been answered give a quick thanks and press the green **'archive thread'** button at the top of the thread.
+1. Wait patiently... 
+
+Eventually someone should come around. They may ask you for additional info and then try to help you work through the problem.
+
+**After** your question has been answered give a quick thanks and press the green **'archive thread'** button at the top of the thread.
 
 <img align="middle" height=48px alt="Discord 'archive thread' button" src="images/archivethreadbutton.png"><sub>💡The 'archive thread' button makes it easier for volunteers to find more unanswered questions.</sub>
 
@@ -44,7 +47,7 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
 ### Best time to ask?
 
 ### What are code blocks?
-One of Discord's features is that it uses 'Markdown' syntax to display text. You can surround the code you type in a chat with backticks and it will be displayed in a way that is easier for other developers to read.
+One of Discord's features is that it uses 'Markdown' syntax to display text. You can surround the code you type in chat with backticks and it will be displayed in a way that is easier for other developers to read.
 
 Using three backticks in a row will create a multi-line code block. Type the name of the language you are using directly after the first triple-backtick to use syntax highlighting.
 
@@ -61,7 +64,10 @@ Using three backticks in a row will create a multi-line code block. Type the nam
 ### More ways to get help
 
 #### Study groups
-If you are a member of a local or affinty study group you can start your own thread asking your question there. 
+If you are a member of a local or affinty study group you can start your own thread in the group and try asking your question there.
+
+#### Use Search
+> See [Searching for previous answers](#searching-for-previous-answers)
 
 #### Voice chat
 Sometimes the fastest way to get your question answered is to join a voice chat and ask for help directly. You can also go into an empty voice chat and start sharing your screen and folx will show up out of curiosity. 
@@ -84,14 +90,20 @@ TLDR - A thread is basically a mini channel inside a main channel used to focus 
 
 Users not familiar with Markdown may be unaware that they can display their code using code blocks in Discord. 
 
-An easy way to demonstrate how they work is to escape the triple backticks with a backslash. This will create a plaintext message in Discord.
+#### Showing users how to create codeblocks
 
+An easy way to show users how to create a code block is to type a short example code block and then escape the triple backticks with a backslash. This will display as a plaintext message in Discord without hiding the backticks:
+
+<img align="left" src="images/escapedbackticks.png" alt="Multiline triple backtick code block with colored syntax highlighting.">
+
+💡 Try pasting this code into a Discord message:
 ```
 \```javascript
 Your code goes here.
 \```
 ```
 
+#### Discord vs Pandoc code blocks
 In standard Pandoc Markdown you can show an example of how code blocks are created by nesting a regular triple-backticked code block within a quadruple-backbacked code block but this does not work in Discord.
 
 <!--- Note: If you are viewing this file in raw mode please realize that I had to use yet another additional layer of codeblocks to create this README--->
