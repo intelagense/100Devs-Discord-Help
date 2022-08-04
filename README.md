@@ -84,11 +84,11 @@ TLDR - A thread is basically a mini channel inside a main channel used to focus 
 
 Users not familiar with Markdown may be unaware that they can display their code using code blocks in Discord. 
 
-An easy way to demonstrate how they work is to escape the triple backticks with a backslash
+An easy way to demonstrate how they work is to escape the triple backticks with a backslash. This will create a plaintext message in Discord.
 
 ```
 \```javascript
-paste your code here.
+Your code goes here.
 \```
 ```
 
