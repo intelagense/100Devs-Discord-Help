@@ -73,8 +73,8 @@ Using three backticks in a row will create a multi-line code block. Type the nam
 #### Study groups
 If you are a member of a local or affinty study group you can start your own thread in the group and try asking your question there.
 
-#### Use Search
-> See [Searching for previous answers](#searching-for-previous-answers)
+#### Using Search
+> Please see ['Searching for previous answers'](#searching-for-previous-answers)
 
 #### Voice chat
 Sometimes the fastest way to get your question answered is to join a voice chat and ask for help directly. You can also go into an empty voice chat and start sharing your screen and folx will show up out of curiosity. 
