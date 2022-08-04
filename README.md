@@ -7,9 +7,9 @@ Unnofficial resources for the **#100Devs** Discord help channels. This is merely
 ### Getting started - asking questions in the 100Devs Discord
   * [How do I ask my question?](#how-do-i-ask-my-question)
   * Searching for previous answers.
-  * Best time to ask?
-  * [What about voice chat?](#what-about-voice-chat)
+  * Best time to ask questions.
   * [What are code blocks?](#what-are-code-blocks)
+  * More ways to get help(#)
 
 
 ### [Frequently Asked Questions](#)
@@ -43,9 +43,6 @@ Unnofficial resources for the **#100Devs** Discord help channels. This is merely
 
 ### Best time to ask?
 
-### What about voice chat?
-Sometimes the fastest way to get your question answered is to join a voice chat and ask for help directly. You can also go into an empty voice chat and start sharing your screen and folx will show up out of curiosity. 
-
 ### What are code blocks?
 One of Discord's features is that it uses 'Markdown' syntax to display text. You can surround the code you type in a chat with backticks and it will be displayed in a way that is easier for other developers to read.
 
@@ -60,6 +57,14 @@ Using three backticks in a row will create a multi-line code block. Type the nam
 ````
 
 > 💡 Use single backticks to display `` `inline code` `` (Inline only, no color coding.)
+
+### More ways to get help
+
+#### Study groups
+If you are a member of a local or affinty study group you can start your own thread asking your question there. 
+
+#### Voice chat
+Sometimes the fastest way to get your question answered is to join a voice chat and ask for help directly. You can also go into an empty voice chat and start sharing your screen and folx will show up out of curiosity. 
 
 ## Frequently Asked Questions
 
