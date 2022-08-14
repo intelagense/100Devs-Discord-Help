@@ -27,6 +27,9 @@ These channels share the same pinned message for now:
 :bulb: Use Discord search features to find answers quickly.
 
 Good luck :thumbsup:
+
+**Mayanwolfe's guide to asking questions in the help channels: **
+https://www.twitch.tv/videos/1561944596?t=01h22m29s
 ````
 ### Reference for helpers message
 ````
@@ -51,6 +54,9 @@ Your code goes here
 ``` ``
 If your code is too long: link an external CodePen, Replit, Glitch, GitHub, Pastebin, etc. 
 Good luck :thumbsup:
+
+**Mayanwolfe's guide to asking questions in the help channels: **
+https://www.twitch.tv/videos/1561944596?t=01h22m29s
 ````
 ### Reference for helpers message
 ````
