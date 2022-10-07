@@ -29,6 +29,10 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
 
 ## Asking questions in the #100Devs Discord
 
+For a full comprehensive video tutorial watch Mayanwolfe's excellent guide on YouTube.   
+<img align="middle" width="50%" alt="Mayanwolfe YouTube screenshot" src="images/mayanwolfediscord.png">
+
+[Mayanwolfe guide to asking questions in the Discord (external link) *(skip to 1:21:40)* ](https://youtu.be/x-kOAl38MBo?t=4900)
 ### How do I ask my question?
 #### The Process:
 1. Pick a relevant help channel.
@@ -66,7 +70,7 @@ Using three backticks in a row will create a multi-line code block. Type the nam
 ```
 ````
 
-> 💡 Use single backticks to display `` `inline code` `` (Inline only, no color coding.)
+> 💡 Use single backticks to display `` `inline code` `` (single line, no color)  
 
 ### More ways to get help
 
@@ -117,48 +121,3 @@ An easy way to show users how to create a code block is to type a short example 
 Your code goes here.
 \```
 ```
-
-#### Discord vs Pandoc code blocks
-In standard Pandoc Markdown you can show an example of how code blocks are created by nesting a regular triple-backticked code block within a quadruple-backbacked code block but this does not work in Discord.
-
-<!--- Note: If you are viewing this file in raw mode please realize that I had to use yet another additional layer of codeblocks to create this README--->
-
-`````
-````
-```[language]
-[code]
-```
-````
-`````
-
-Markdown in Discord requires that you insert a Zero Width Space (U+200B) within any triple-backticks you wish to escape when displaying backticks inside a code block.
-````
-```             //normal triple-backtick
-`​``[language]   //escaped triple-backtick (No visible difference due to the Zero Width Space.)
-[code] 
-`​``
-```
-````
-
-#### Syntax highlighting hack
-
-When specifying the [language] in a normal code block Discord will apply syntax highlighting. This highlighting is lost when using nested code blocks. You can manually apply syntax highlighting in your code block using ANSI syntax in your markdown. 
-
-<p>This code...</p>
-
-````
-```ansi
-`​``[34mjavascript[0m
-[32mconst[0m markdown = tricky;
-[32mif[0m([36m'difficult'[0m){
-  [31mconsole[0m.log([36m'copy + paste'[0m)
-}
-`​``
-```
-````
-
-<p>which looks like this when editing in Discord...</p>
-<img src="images/discordansi.png" alt="Screenshot of raw message text including ansi color codes">
-<p>will display like this to other users.</p>
-<img src="images/discordansirender.png" alt="Screenshot of rendered message text in Discord that uses ansi codes to manually apply syntax highlighting">
-<p>Using ansi color in examples will help the viewer to understand why the [language] is included after the triple-backticks.</p>
