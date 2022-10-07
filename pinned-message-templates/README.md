@@ -29,7 +29,8 @@ These channels share the same pinned message for now:
 Good luck :thumbsup:
 
 **Mayanwolfe's guide to asking questions in the help channels: **
-https://www.twitch.tv/videos/1561944596?t=01h22m29s
+[https://www.twitch.tv/videos/1561944596?t=01h22m29s](https://youtu.be/x-kOAl38MBo?t=4900
+*skip to 1:21:40*)
 ````
 ### Reference for helpers message
 ````
@@ -56,7 +57,8 @@ If your code is too long: link an external CodePen, Replit, Glitch, GitHub, Past
 Good luck :thumbsup:
 
 **Mayanwolfe's guide to asking questions in the help channels: **
-https://www.twitch.tv/videos/1561944596?t=01h22m29s
+[https://www.twitch.tv/videos/1561944596?t=01h22m29s](https://youtu.be/x-kOAl38MBo?t=4900
+*skip to 1:21:40*)
 ````
 ### Reference for helpers message
 ````
