@@ -21,6 +21,8 @@ These channels share the same pinned message for now:
 ````
 ```diff
 +Quick Start Guide```
+Check out #Starting-in-2023  if you have recently joined.
+
 1. Type your question and press enter.
 2. **Needle bot** will create a new thread for you **'automagically.'**
 
