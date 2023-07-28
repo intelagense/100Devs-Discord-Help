@@ -29,13 +29,15 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
 
 ## Asking questions in the #100Devs Discord
 
-For a full comprehensive video tutorial watch Mayanwolfe's excellent guide on YouTube. (The server channels have changed formats but the underlying concepts are the same.)
+For a full comprehensive video tutorial watch Mayanwolfe's excellent guide on YouTube.  
+(The server channels have changed formats but the underlying concepts are the same.)  
 <img align="middle" width="50%" alt="Mayanwolfe YouTube screenshot" src="images/mayanwolfediscord.png">
 
 [Mayanwolfe guide to asking questions in the Discord (external link) *(skip to 1:21:40)* ](https://youtu.be/x-kOAl38MBo?t=4900)
 ### How do I ask my question?
 #### The Process:
 1. Pick a relevant help channel.
+1. If appropriate choose an appropriate tag. 
 1. Type your question and press enter.
 1. The needle bot will open a new thread for you **'automagically.'**
 1. Paste any related code, code snippets, and/or images **inside** this new thread.
