@@ -1,6 +1,6 @@
 # 100Devs-Discord-Help `(Work in progress)`
 
-Unofficial resources for the **#100Devs** Discord help channels. This is merely a guide for suggested best practices as agreed upon by a small group of members. For official **#100Devs** infomation and resources please visit [leonnoel.com/100devs (external link)](https://leonnoel.com/100devs/)
+Unofficial resources for the **#100Devs** Discord help channels. This is merely a guide for suggested best practices as agreed upon by a small group of members. For official **#100Devs** information and resources please visit [leonnoel.com/100devs (external link)](https://leonnoel.com/100devs/)
 
 ## Table of contents
 
@@ -13,7 +13,7 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
 
 
 ### [Frequently Asked Questions](#)
-  * How do I join catch-up crew?
+  * How do I join the catch-up crew?
   * What is a thread? and how does it work?
   * Why is no one answering my question?
   
@@ -37,27 +37,27 @@ For a full comprehensive video tutorial watch Mayanwolfe's excellent guide on Yo
 ### How do I ask my question?
 #### The Process:
 1. Pick a relevant help channel.
-1. If appropriate choose an appropriate tag. 
+1. If appropriate, choose an appropriate tag. 
 1. Type your question and press enter.
 1. The needle bot will open a new thread for you **'automagically.'**
 1. Paste any related code, code snippets, and/or images **inside** this new thread.
 1. Wait patiently... 
 
-Eventually someone should come around. They may ask you for additional info and then try to help you work through the problem.
+Eventually, someone should come around. They may ask you for additional info and then try to help you work through the problem.
 
 **After** your question has been answered give a quick thanks and press the green **'archive thread'** emoji at the top of the thread.
 
 ✅ The 'archive thread' emoji makes it easier for volunteers to find more unanswered questions.
 
 ### Searching for previous answers.
-Press `Ctrl+F` and start typing to search. (On mobile devices tap the 🔎 magnifying glass icon on the top right of the screen) 
+Press `Ctrl+F` while in the #100Devs Discord and start typing to search. (On mobile devices tap the 🔎 magnifying glass icon on the top right of the screen) 
 
-There are several filters you can use to narrow your search. Try typing `in:` and the name of a channel to display only the search results from that channel or `from:` and a username to display all of the messages from a particular user. 
+There are several filters you can use to narrow your search. Try typing `in:` and the name of a channel to display only the search results from that channel or `from:` and a member's username to display all of the messages from that particular user. 
 
 💡 There are many more powerful tools you can use in search. For more in-depth information check out the [Discord guide to using search (external link)](https://support.discord.com/hc/en-us/articles/115000468588-Using-Search)
 
 ### Best time to ask questions
-Any time you find yourself stuck on something for more than 20 minutes is the best time to hop on Discord and ask questions. However the amount of active members in the help channels varies greatly throughout the day and also from week to week.
+Any time you find yourself stuck on something for more than 20 minutes is the best time to hop on Discord and ask questions. However, keep in mind that the amount of active members in the help channels varies greatly throughout the day and also from week to week.
 
 ### What are code blocks?
 One of Discord's features is that it uses 'Markdown' syntax to display text. You can surround the code you type in chat with backticks and it will be displayed in a way that is easier for other developers to read.
