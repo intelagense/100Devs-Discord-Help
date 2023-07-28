@@ -29,7 +29,7 @@ Unofficial resources for the **#100Devs** Discord help channels. This is merely 
 
 ## Asking questions in the #100Devs Discord
 
-For a full comprehensive video tutorial watch Mayanwolfe's excellent guide on YouTube.   
+For a full comprehensive video tutorial watch Mayanwolfe's excellent guide on YouTube. (The server channels have changed formats but the underlying concepts are the same.)
 <img align="middle" width="50%" alt="Mayanwolfe YouTube screenshot" src="images/mayanwolfediscord.png">
 
 [Mayanwolfe guide to asking questions in the Discord (external link) *(skip to 1:21:40)* ](https://youtu.be/x-kOAl38MBo?t=4900)
@@ -43,9 +43,9 @@ For a full comprehensive video tutorial watch Mayanwolfe's excellent guide on Yo
 
 Eventually someone should come around. They may ask you for additional info and then try to help you work through the problem.
 
-**After** your question has been answered give a quick thanks and press the green **'archive thread'** button at the top of the thread.
+**After** your question has been answered give a quick thanks and press the green **'archive thread'** emoji at the top of the thread.
 
-<img align="middle" height=48px alt="Discord 'archive thread' button" src="images/archivethreadbutton.png"><sub>💡The 'archive thread' button makes it easier for volunteers to find more unanswered questions.</sub>
+✅ The 'archive thread' emoji makes it easier for volunteers to find more unanswered questions.
 
 ### Searching for previous answers.
 Press `Ctrl+F` and start typing to search. (On mobile devices tap the 🔎 magnifying glass icon on the top right of the screen) 
